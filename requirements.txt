@@ -1,0 +1,6 @@
+Flask==2.2.5
+gunicorn==22.0.0
+transformers==4.35.0
+marshmallow==3.21.0
+flasgger==0.9.5
+flask-limiter
